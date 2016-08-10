@@ -275,6 +275,7 @@
 * Sensible http://blog.sensible.io/
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethis http://engineering.sharethis.com/
+* Shutterstock: http://tech.shutterstock.com/blog/
 * Shopify https://engineering.shopify.com
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
